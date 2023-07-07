@@ -1,0 +1,14 @@
+.ItemImg{
+    width: 330px;
+    height: 400px;
+}
+.LinkOption{
+    padding: 7px 15px 7px 15px;
+    border: 1px solid black;
+    color: black;
+    background-color: rgb(235, 247, 255);
+    text-decoration: none;
+}
+.CardItem{
+    margin: 30px 0px 0px 0px;
+}
