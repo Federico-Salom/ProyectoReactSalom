@@ -1,5 +1,6 @@
 .NavBar{
-    background-color: rgb(190, 243, 245);
+    background-color: rgb(252, 220, 255);
+    border-bottom: 1px solid black;
     height: 90px;
     display: flex;
     text-align: center;
@@ -16,6 +17,9 @@
 
 .Categories{
     display: flex;
+    width: 90vw;
+    justify-content: space-evenly;
+
 }
 
 .Categories a{

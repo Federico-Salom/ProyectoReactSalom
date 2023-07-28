@@ -1,0 +1,16 @@
+.OptionLink{
+    text-decoration: none;
+    color: white;
+}
+.cartContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: space-around;
+    width: 350px;
+    margin: 0px 0px 25px 0px;
+}

@@ -2,3 +2,8 @@
 section p{
     font-family: 'Roboto', sans-serif;
 }
+
+.OptionLink{
+    text-decoration: none;
+    color: white;
+}
